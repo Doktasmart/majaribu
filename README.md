@@ -23,7 +23,7 @@ link to an image called blue-whale.jpg, which is located in a directory called b
     <p>For more information <a href="whales.html" title="page includes information on the Blue whales and sperm whales" target="_blank"> about whales</a> </p>
     <p>Incase of any complications <a href="mailto:whales@example.com?subject=Questions%20about%20whales"> email us</a></p>
     <h2>TASK TWO</h2>
-    <p>Whales moves you around tyhe city in an elite drive.
+    <p>Whales moves you around the city in an elite drive.
       <a href="blue/blue-whale.jpg"> mercedes interior</a>
     </p>
 
